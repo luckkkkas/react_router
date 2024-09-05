@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    background-color: brown;
+    justify-content: space-around;
+    color: aliceblue;
+    width: 100vw;
+}
+
+.link{
+    color: aliceblue;
+}
+
+.active{
+    background-color: blue;
+    color: red;
+}
